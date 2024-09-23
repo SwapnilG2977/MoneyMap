@@ -17,4 +17,4 @@ The MoneyMap is a web application designed to help users manage their income and
 ## Installation
 1. Clone the repository:
    ```bash
-    
+    https://github.com/SwapnilG2977/MoneyMap.git
